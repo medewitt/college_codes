@@ -46,3 +46,10 @@ for(i in 2:21){
 
 total_out <- bind_rows(big_list)
 
+total_out <- total_out %>% 
+  mutate(number = as.numeric(number))
+
+head(total_out)
+
+library(readr)
+write_csv(total_out, "colleges_with_college_board_number.csv")
