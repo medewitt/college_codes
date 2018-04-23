@@ -69,18 +69,18 @@ number,school
 1798,Troy University Montgomery
 1738,Troy University Troy
 1813,Tuskegee University
-1735,University North Alabama
+1735,University North
 1856,University of Alabama Birmingham
 1854,University of Alabama Huntsville
 1830,University of Alabama Tuscaloosa
 1515,University of Mobile
 1004,University of Montevallo
-1880,University of South Alabama
-1737,University of West Alabama
+1880,University of South
+1737,University of West
 2596,Virginia College
 3451,Virginia College Huntsville
 103,Wallace Community College Sparks Campus
-528,Wallace State Hanceville Alaska
+528,Wallace State Hanceville
 1237,Alaska Bible College
 7227,Alaska Christian College
 4201,Alaska Pacific University
@@ -154,7 +154,7 @@ number,school
 1024,University of Phoenix
 1316,Western International University
 4419,Western International University – Online
-4996,Yavapai College Arkansas
+4996,Yavapai College
 4453,Agape College
 7301,Arkansas Baptist College
 1267,Arkansas Northeastern College
@@ -202,9 +202,9 @@ number,school
 424,University of Arkansas Medical Sciences Little Rock
 6007,University of Arkansas Monticello
 6004,University of Arkansas Pine Bluff
-6012,University of Central Arkansas
+6012,University of Central
 6111,University of the Ozarks
-6658,Williams Baptist College California
+6658,Williams Baptist College
 1981,Academy of Art University
 6454,Academy of Couture Art
 5865,Acupuncture Integrative Medicine College
@@ -521,7 +521,7 @@ number,school
 4848,University of Redlands
 4849,University of San Diego
 4850,University of San Francisco
-4852,University of Southern California
+4852,University of Southern
 4065,University of the Pacific
 6207,USMC Officer Selection Office
 7755,USMC Officer Selection Station Orange County
@@ -555,7 +555,7 @@ number,school
 1331,Yeshiva Ohr Elchonon Chabad West Coast Talmudical
 7384,Young Americans College of Performing Arts
 4994,Yuba College
-6152,Zaytuna College Colorado
+6152,Zaytuna College
 4001,Adams State College
 4204,Aims Community College
 4014,Arapahoe Community College
@@ -626,7 +626,7 @@ number,school
 3948,Westwood College
 2230,Westwood College of Aviation Technology
 7962,William Loveland College
-7008,Yeshiva Toras Chaim Talmudical Seminary Connecticut
+7008,Yeshiva Toras Chaim Talmudical Seminary
 3001,Albertus Magnus College
 3656,Asnuntuck Community College
 3359,Beth Benjamin Academy
@@ -653,7 +653,7 @@ number,school
 3528,Mitchell College
 3550,Naugatuck Valley Community College
 1653,New England Baptist College
-3652,Northwestern Connecticut Community College
+3652,NorthwesternCommunity College
 3677,Norwalk Community College
 3699,Paier College of Art
 3698,Post University
@@ -665,7 +665,7 @@ number,school
 3789,Saint Vincent’s College
 3662,Southern Connecticut State University
 3558,Three Rivers Community College
-3899,Trinity College Connecticut
+3899,Trinity College
 3897,Tunxis Community College
 5807,United States Coast Guard Academy
 3914,University of Bridgeport
@@ -676,7 +676,7 @@ number,school
 3959,Wesleyan University
 3350,Western Connecticut State University
 5779,Yale School of Management Pre-MBA Leadership Program
-3987,Yale University Delaware
+3987,Yale University
 5161,Delaware College of Art and Design
 5153,Delaware State University
 5169,Delaware Tech Community College Owens Campus
@@ -703,7 +703,7 @@ number,school
 5796,Trinity Washington University
 5929,University of the District of Columbia
 3569,"University of the Potomac Washington, DC"
-2604,"University of the Potomac Herndon, VA Florida"
+2604,"University of the Potomac Herndon, VA"
 6257,Academy Prep Foundation
 4669,American College of Applied Science
 5964,American University of the Caribbean
@@ -851,7 +851,7 @@ number,school
 5427,State College of Florida Manatee-Sarasota
 5630,Stetson University
 5794,Tallahassee Community College
-514,Talmudic University Florida
+514,Talmudic University
 5780,Trinity Baptist College
 1979,Trinity College of Florida
 4598,Trinity International University South Florida Cam
@@ -868,7 +868,7 @@ number,school
 5893,Webber International University
 7978,West Coast University Miami Campus
 2570,Whitefield College
-3017,Wyotech Georgia
+3017,Wyotech
 5001,Abraham Baldwin Agricultural College
 5002,Agnes Scott College
 5004,Albany State University
@@ -1002,7 +1002,7 @@ number,school
 4869,University of Hawaii at Hilo
 4867,University of Hawaii at Manoa
 1042,University of Hawaii West Oahu
-4976,Windward Community College Idaho
+4976,Windward Community College
 891,Boise Bible College
 4018,Boise State University
 4657,Brigham Young University
@@ -1015,7 +1015,7 @@ number,school
 3855,New Saint Andrews College
 4539,North Idaho College
 4544,Northwest Nazarene University
-4843,University of Idaho Illinois
+4843,University of Idaho
 1013,American Academy of Art
 1031,American Islamic College
 3922,Argosy University Chicago
@@ -1184,7 +1184,7 @@ number,school
 1900,Western Illinois University
 1905,Wheaton College
 1925,Wilbur Wright College
-1932,William Rainey Harper College Indiana
+1932,William Rainey Harper College
 7269,American College of Education
 1015,Ancilla College
 1016,Anderson University
@@ -1339,7 +1339,7 @@ number,school
 6925,Waldorf University
 6926,Wartburg College
 6950,Western Iowa Technical Community College
-6943,William Penn University Kansas
+6943,William Penn University
 6305,Allen County Community College
 6031,Baker University
 6228,Barclay College
@@ -1397,7 +1397,7 @@ number,school
 6630,University of Saint Mary Leavenworth
 3638,Vatterott College Wichita
 6928,Washburn University
-6884,Wichita State University Kentucky
+6884,Wichita State University
 5801,AARTS Office United States Army
 1098,Alice Lloyd College
 1019,Asbury University
@@ -1481,7 +1481,7 @@ number,school
 1625,University of Pikeville
 1145,University of the Cumberlands
 1620,Western Kentucky Community and Technical College
-1901,Western Kentucky University Louisiana
+1901,Western Kentucky University
 6023,Baton Rouge Community College
 3197,Baton Rouge School of Computers
 787,Bossier Parish Community College
@@ -1528,7 +1528,7 @@ number,school
 6672,University of Louisiana at Lafayette
 6482,University of Louisiana at Monroe
 6379,University of New Orleans
-6975,Xavier University Louisiana Maine
+6975,Xavier UniversityMaine
 688,Andover College
 3076,Bates College
 3114,Beal College
@@ -1559,7 +1559,7 @@ number,school
 3751,University of New England
 3691,University of Southern Maine
 3961,Washington County Community College
-3990,York County Community College Maryland
+3990,York County Community College
 5028,Allegany College of Maryland
 3709,American Association of Colleges of Osteopathic Medicine
 2508,American Veterans Association
@@ -1574,7 +1574,7 @@ number,school
 4196,Catonsville Community College
 5091,Cecil College
 5143,Chesapeake College
-5144,College of Southern Maryland
+5144,College of Southern
 5137,Community College of Baltimore County
 5122,Coppin State University
 5176,Dundalk Community College
@@ -1592,7 +1592,7 @@ number,school
 804,Kaplan University
 3056,Lincoln College of Technology
 4233,Lincoln Technical Institute
-5370,Loyola University Maryland
+5370,Loyola University
 5399,Maryland Institute College of Art
 5898,McDaniel College
 5393,Montgomery College Germantown
@@ -1607,8 +1607,8 @@ number,school
 5114,Notre Dame of Maryland University
 5532,Peabody Conservatory of Music
 5545,Prince Georges Community College
-5598,Saint John’s College Maryland
-5601,Saint Mary’s College Maryland
+5598,Saint John’s College
+5601,Saint Mary’s College
 5602,Saint Mary’s Seminary and University
 5403,Salisbury University
 7398,Sans Technology Institute
@@ -1629,7 +1629,7 @@ number,school
 5884,Washington Bible College
 5888,Washington College
 5491,Women’s Institute of Torah Seminary
-1613,Wor-Wic Community College Massachusetts
+1613,Wor-Wic Community College
 3002,American International College
 3003,Amherst College
 6811,Andover Newton Theological School
@@ -1740,9 +1740,9 @@ number,school
 7676,Tufts University Cummings School of Veterinary Medicine
 3917,University of Massachusetts Amherst
 3924,University of Massachusetts Boston
-3786,University of Massachusetts Dartmouth
+3786,University ofDartmouth
 3911,University of Massachusetts Lowell
-2946,University of Massachusetts Project Reach
+2946,University ofProject Reach
 3630,Urban College of Boston
 7929,USMC Officer Selection Station Amherst
 3957,Wellesley College
@@ -1755,7 +1755,7 @@ number,school
 7670,Woods College of Advanced Studies at Boston College
 5118,Worcester Academy
 3969,Worcester Polytechnic Institute
-3524,Worcester State University Michigan
+3524,Worcester State University
 1001,Adrian College
 1007,Albion College
 1010,Alma College
@@ -1827,7 +1827,7 @@ number,school
 1569,North Central Michigan College
 1560,Northern Michigan University
 1564,Northwestern Michigan College
-1568,Northwood University Michigan
+1568,Northwood University
 1607,Oakland Community College
 1497,Oakland University
 1595,Olivet College
@@ -1851,7 +1851,7 @@ number,school
 1898,Wayne State University
 1941,West Shore Community College
 1902,Western Michigan University
-7010,Yeshiva Gedolah Minnesota
+7010,Yeshiva Gedolah
 3311,Academy College
 771,Alexandria Technical College
 6084,Anoka Technical College
@@ -1951,7 +1951,7 @@ number,school
 6489,University of Northwestern St. Paul
 6110,University of Saint Thomas Minnesota
 6194,Vermilion Community College
-6680,Winona State University Mississippi
+6680,Winona State University
 1008,Alcorn State University
 3193,Antonelli College
 3195,Antonelli College Hattiesburg
@@ -1988,8 +1988,8 @@ number,school
 1807,Tougaloo College
 1840,University of Mississippi
 358,University of Mississippi Medical Center
-1479,University of Southern Mississippi
-1907,William Carey University Missouri
+1479,University of Southern
+1907,William Carey University
 6109,Avila University
 991,Baptist Bible College Missouri
 6329,Barnes Jewish College Goldfarb School of Nursing
@@ -2017,7 +2017,7 @@ number,school
 6320,Jefferson College
 6330,Kansas City Art Institute
 3932,Lester L. Cox College of Nursing and Health Science
-6366,Lincoln University Missouri
+6366,Lincoln University
 6367,Lindenwood University
 4965,Logan University  College of Chiropractic
 6359,Longview Community  College
@@ -2089,7 +2089,7 @@ number,school
 6934,Wentworth Military Academy and College
 6937,Westminster College Missouri
 6941,William Jewell College
-6944,William Woods University Montana
+6944,William Woods University
 379,Blackfeet Community College
 4041,Carroll College Montana
 5938,Chief Dull Knife College
@@ -2112,7 +2112,7 @@ number,school
 4489,University of Montana
 2022,University of Montana Helena College
 4945,University of Montana Western
-4998,Yellowstone Christian College Nebraska
+4998,Yellowstone Christian College
 6053,Bellevue University
 6058,Bryan College of Health Sciences
 6136,Central Community College
@@ -2152,11 +2152,11 @@ number,school
 6469,Wayne State College
 6957,Western Nebraska Community College
 6648,Western Nebraska Community College Scottsbluff
-6984,York College Nebraska Nevada
+6984,York College Nebraska
 3832,Art Institute of Las Vegas
 3202,Career College of Northern Nevada
 7444,Chamberlain College of Nursing Las Vegas
-4136,College of Southern Nevada
+4136,College of Southern
 4281,Deep Springs College
 4293,Great Basin College
 3167,Kaplan College Las Vegas Campus
@@ -2195,7 +2195,7 @@ number,school
 3902,Tuck Business Bridge Program
 3918,University of New Hampshire Durham
 2094,University of New Hampshire Manchester
-3646,White Mountains Community College New Jersey
+3646,White Mountains Community College
 7267,Anthem Institute
 4050,APA Transport Education Foundation
 2009,Assumption College Sisters
@@ -2277,7 +2277,7 @@ number,school
 5919,United States Marine Corp
 2722,Warren County Community College
 2974,Westminster Choir College of Rider University
-2518,William Paterson University of New Jersey New Mexico
+2518,William Paterson University of New Jersey
 1882,Armand Hammer United World College American West
 3387,Central New Mexico Community College Main Campus
 4921,Clovis Community College
@@ -2297,7 +2297,7 @@ number,school
 461,New Mexico State University Grants
 4531,New Mexico State University University Park
 425,Northern New Mexico Community College
-4737,Saint John’s College New Mexico
+4737,Saint John’s College
 4732,San Juan College
 4816,Santa Fe Community College
 4676,Santa Fe University of Art and Design
@@ -2306,7 +2306,7 @@ number,school
 4845,University of New Mexico Albuquerque
 977,University of New Mexico Gallup
 4116,University of the Southwest
-4535,Western New Mexico University New York
+4535,Western New Mexico University
 2003,Adelphi University
 2013,Albany College of Pharmacy
 2005,Alfred University
@@ -2626,8 +2626,8 @@ number,school
 1582,Yeshiva Karlin Stolin Beth
 691,Yeshiva Nitra Rabbinical College
 743,Yeshiva Shaar Hatora
-2990,Yeshiva University New York
-1432,Yeshivat Mikdash Melech North Carolina
+2990,Yeshiva University
+1432,Yeshivat Mikdash Melech
 5790,Alamance Community College
 760,Ambassador Baptist College
 5010,Appalachian State University
@@ -2638,7 +2638,7 @@ number,school
 5016,Barton College
 7307,Beaufort County Community College
 5055,Belmont Abbey College
-5058,Bennett College North Carolina
+5058,Bennett College
 3082,Bladen Community College
 5644,Blue Ridge Community College
 5067,Brevard College
@@ -2771,7 +2771,7 @@ number,school
 4171,Wilson Community College
 5930,Wilson Community College
 5908,Wingate University
-5909,Winston-Salem State University North Dakota
+5909,Winston-Salem State University
 3343,Aakers College
 6041,Bismarck State College
 1306,Cankdeska Cikana Community College
@@ -2792,7 +2792,7 @@ number,school
 6428,University of Mary
 6878,University of North Dakota Grand Forks
 6480,Valley City State University
-6905,Williston State College Ohio
+6905,Williston State College
 3344,Academy of Court Reporting
 4120,Allegheny Wesleyan College
 1017,Antioch College
@@ -2964,7 +2964,7 @@ number,school
 1947,Wright State University Lake Campus
 1965,Xavier University
 1975,Youngstown State University
-1535,Zane State College Oklahoma
+1535,Zane State College
 6030,Bacone College
 6080,Cameron University
 1474,Carl Albert State College
@@ -3005,7 +3005,7 @@ number,school
 336,Spartan College
 6839,Tulsa Community College
 2958,Tulsa Welding School
-6091,University of Central Oklahoma
+6091,University of Central
 6879,University of Oklahoma
 430,University of Oklahoma Health Science Center
 6544,University of Science and Arts of Oklahoma
@@ -3013,7 +3013,7 @@ number,school
 2899,Vatterott College Oklahoma City
 3637,Vatterott College Tulsa
 6020,Western Oklahoma State College
-6071,Western Technology Center Oregon
+6071,Western Technology Center
 4231,Art Institute of Portland
 4025,Blue Mountain Community College
 4090,Central Oregon Community College
@@ -3022,7 +3022,7 @@ number,school
 4089,Clatsop Community College
 5792,College Veterinary Medicine Oregon State University
 3185,Columbia Gorge Community College
-4079,Concordia University Oregon
+4079,Concordia University
 4253,Confederated Tribes Grand Ronde Community of Oregon
 4956,Corban University
 4300,Eastern Oregon University
@@ -3065,7 +3065,7 @@ number,school
 4847,University of Portland
 4595,Warner Pacific College
 4585,Western Oregon University
-4954,Willamette University Pennsylvania
+4954,Willamette University
 8606,AFNA National Educational Research Fund
 2004,Albright College
 2006,Allegheny College
@@ -3133,7 +3133,7 @@ number,school
 3290,DuBois Business College Huntingdon
 3292,DuBois Business College Oil City
 2196,Duquesne University
-2650,East Stroudsburg University of Pennsylvania
+2650,East Stroudsburg University of
 2220,Eastern University
 2651,Edinboro University
 116,Educational Opportunity Centers Incorporated
@@ -3294,17 +3294,17 @@ number,school
 2659,West Chester University of Pennsylvania
 2983,Western Pennsylvania Hospital School of Nursing
 2933,Western School of Health and Business Careers
-2975,Westminster College Pennsylvania
+2975,Westminster College
 2968,Westmoreland County Community College
 2642,Widener University
 2977,Wilkes University
 765,Williamson Free School Mechanical Trade
 2979,Wilson College
 1657,Yeshivath Beth Moshe
-2991,York College of Pennsylvania
+2991,York College of
 5689,York Learning Center Freedom Academy
 2943,York Technical Institute
-2553,Yorktowne Business Institute Rhode Island
+2553,Yorktowne Business Institute
 3094,Brown University
 3095,Bryant University
 3733,Community College of Rhode Island
@@ -3320,7 +3320,7 @@ number,school
 3759,Salve Regina University
 3797,St. Joseph School of Nursing
 4143,United States Marine Corps Officer Selection Program
-3919,University of Rhode Island South Carolina
+3919,University of Rhode Island
 5037,Aiken Technical College
 5006,Allen University
 4287,American College of the Building Arts
@@ -3410,7 +3410,7 @@ number,school
 7054,Southeast Technical Institute
 6651,University of Sioux Falls
 6881,University of South Dakota Vermillion
-6393,Western Dakota Technical Institute Tennessee
+6393,Western Dakota Technical Institute
 2401,American Baptist College
 7318,Aquinas College TN
 5685,Argosy University
@@ -3723,7 +3723,7 @@ number,school
 4870,Utah Valley University
 4941,Weber State University
 3949,Western Governors University
-4948,Westminster College Salt Lake City Vermont
+4948,Westminster College Salt Lake City
 3080,Bennington College
 3765,Castleton University
 3291,Champlain College
@@ -3746,13 +3746,13 @@ number,school
 3920,University of Vermont
 4142,Vermont Agency of Education
 4208,Vermont College of Fine Arts
-3941,Vermont Technical College Virginia
+3941,Vermont Technical College
 9081,Ad Fontes Academy
 3955,American Military University
 6e3,American Public University System
 5011,Apprentice School
 6231,Art Institute of Virginia Beach
-3836,Art Institute of Washington
+3836,Art Institute of
 6620,Art Institute of Washington Northern Virginia
 5430,Astar Education Institute
 5017,Averett University
@@ -3869,7 +3869,7 @@ number,school
 5868,Virginia Western Community College
 5887,Washington and Lee University
 3970,World College
-5917,Wytheville Community College Washington
+5917,Wytheville Community College
 3070,Antioch University Seattle
 4805,Art Institute of Seattle
 3653,Ashesi University Foundation
@@ -3883,7 +3883,7 @@ number,school
 4044,Central Washington University
 4045,Centralia College
 4042,City University of Seattle
-4055,Clark College Washington
+4055,Clark College
 3971,Clover Park Technical College
 4077,Columbia Basin College
 58,Cornish College of the Arts
@@ -3940,7 +3940,7 @@ number,school
 4947,Western Washington University
 1275,Whatcom Community College
 4951,Whitman College
-4953,Whitworth University West Virginia
+4953,Whitworth University
 5005,Alderson-Broaddus College
 7305,Appalachian Bible College
 5060,Bethany College
@@ -3979,7 +3979,7 @@ number,school
 5902,West Virginia University Institute of Technology
 5904,West Virginia University Morgantown
 5905,West Virginia Wesleyan College
-5906,Wheeling Jesuit University Wisconsin
+5906,Wheeling Jesuit University
 1012,Alverno College
 1046,Bellin College of Nursing
 1059,Beloit College
@@ -3992,7 +3992,7 @@ number,school
 1103,Carthage College
 786,Chippewa Valley Technical College
 3974,College of Menominee Nation
-1139,Concordia University Wisconsin
+1139,Concordia University
 1202,Edgewood College
 747,Fox Valley Tech College
 1255,Gateway Technical College Racine
@@ -4056,7 +4056,7 @@ number,school
 1087,Western Technical College
 1580,Wisconsin Indianhead Technical College
 1513,Wisconsin Lutheran College
-507,Wisconsin Military Academy Wyoming
+507,Wisconsin Military Academy
 4043,Casper College
 4115,Central Wyoming College
 4700,Eastern Wyoming College
@@ -4067,14 +4067,14 @@ number,school
 4957,Western Wyoming Community College
 4748,Wyoming Catholic College
 7141,Wyoming Technical Institute
-20,Community College American Samoa Armed Forces Africa
+20,Community CollegeArmed Forces Africa
 7213,University Maryland European Division Federated States of Micronesia
-115,College of Micronesia Guam
+115,College of Micronesia
 2302,Guam Community College
-959,University of Guam Marshall Islands
-7142,College of the Marshall Islands Northern Mariana Islands
-781,Northern Marianas College Palau
-7329,Palau Community College Puerto Rico
+959,University of Guam
+7142,College of theNorthern Mariana Islands
+781,Northern Marianas College
+7329,Palau Community College
 961,American University of Puerto Rico
 7137,Atlantic College Universidades
 840,Bayamon Central University
@@ -4082,10 +4082,10 @@ number,school
 779,Caribbean University College
 2104,Carlos Albizu University
 3088,Col Regional de la Montana
-2315,Columbia College Puerto Rico
+2315,Columbia College
 3215,Columbia College Yauco
-1115,Conservatory Music Puerto Rico
-2243,EDP College of Puerto Rico
+1115,Conservatory Music
+2243,EDP College of
 3219,EDP College San Sebastian
 7036,Escuela de Artes Plasticas Puerto Rico
 3406,Huertas Junior College
@@ -4108,7 +4108,7 @@ number,school
 3022,Puerto Rico Technical Junior College
 386,Ramirez College of Business and Technology
 631,Universidad de Puerto Rico Medical and Science Campus
-979,Universidad de Puerto Rico
+979,Universidad de
 911,Universidad de Puerto Rico Arecibo
 883,Universidad del Este
 7918,Universidad Interamericana
@@ -4128,10 +4128,10 @@ number,school
 614,University Politecnica De Puerto Rico
 913,University Sagrado Corazon
 1519,Universidad Metropolitana Virgin Islands
-879,University of the Virgin Islands Colleges and Universities Outside the U.S. Afghanistan
-7890,American University of Afghanistan Anguilla
-7796,Anguilla Community College Armenia
-7257,American University of Armenia Australia
+879,University of the Virgin Islands Colleges and Universities Outside the U.S.
+7890,American University of Afghanistan
+7796,Anguilla Community College
+7257,American University of Armenia
 108,Australian International Hotel School
 3582,Australian National University
 5345,Bond University
@@ -4155,32 +4155,32 @@ number,school
 9026,University of New South Wales
 7988,University of Newcastle
 7750,University of Queensland
-7395,University of South Australia
+7395,University of South
 867,University of Sydney
 7238,"University of Technology, Sydney"
 7600,University of Western Australia
 7987,Victoria University
-3847,Victorian Tertiary Admissions Centre Austria
-9131,Webster Vienna Private University Azerbaijan
+3847,Victorian Tertiary Admissions Centre
+9131,Webster Vienna Private University
 7799,ADA University
 6716,Qafqaz University
-7876,State Student Admission Commission of the Republic Azerbaijan Bahamas
+7876,State Student Admission Commission of the Republic Azerbaijan
 6772,Cherub College
-1775,College of the Bahamas Bahrain
-4622,University of Bahrain Bangladesh
+1775,College of the Bahamas
+4622,University of Bahrain
 7194,Brac University
-6702,Independent University Bangladesh
+6702,Independent University
 2378,International University of Business and Agriculture
-2505,North South University Barbados
+2505,North South University
 7263,American University Barbados School of Medicine
-3852,Barbados Community College Belgium
+3852,Barbados Community College
 5749,Hogeschool Universiteit Brussel
 7387,Ku Leuven
-3574,Vesalius College Belize
-863,Saint John’s College Sixth Form Bermuda
-2581,Bermuda College Bolivia
-856,Universidad Privada Boliviana Brazil
-6298,Universitario Ritter dos Reis Bulgaria
+3574,Vesalius College
+863,Saint John’s College Sixth Form
+2581,Bermuda College
+856,Universidad Privada Boliviana
+6298,Universitario Ritter dos Reis
 2451,American University Bulgaria
 901,Acadia University
 7154,Alberta College of Art and Design
@@ -4298,32 +4298,32 @@ number,school
 964,Vanier College
 893,Wilfrid Laurier University
 894,York University
-418,Yukon College Cayman Islands
-6444,University College Cayman Islands
-22,University College of Cayman Islands China
+418,Yukon College
+6444,University College
+22,University College of Cayman Islands
 7059,Duke Kunshan University
 7956,South China University of Technology
 6563,University of Michigan – Shanghai Jiao Tong Joint Institute
-6521,Zhejiang University Colombia
+6521,Zhejiang University
 7378,Fundacion Universitaria Ceipa
 6814,Pontificia University Javeriana
 6407,Universidad CES
 6779,Universidad de los Andes
 4939,Universidad Tecnologica de Bolivar Cote D’Ivoire
-5733,International University of Grand-Bassam Croatia
-7397,Zagreb School of Economics and Management Cyprus
-6761,Near East University Czechia
+5733,International University of Grand-Bassam
+7397,Zagreb School of Economics and Management
+6761,Near East University
 7280,Charles University Prague Faculty of Social Sciences
 7298,Charles University 2nd Faculty of Medicine
 7249,Charles University Prague Faculty Mathematics & Physics
 7994,Czech College
-7453,Faculty of Medicine Hradec Kralove Charles University Denmark
+7453,Faculty of Medicine Hradec Kralove Charles University
 6807,CIRIUS The Danish Ministry of Education
 7405,Roskilde University
-7968,Via University College Dominican Republic
+7968,Via University College
 7064,Universidad Dominicana O&M
-5952,Universidad Iberoamericana Ecuador
-7079,Universidad San Francisco de Quito – Campus Cumbaya Egypt
+5952,Universidad Iberoamericana
+7079,Universidad San Francisco de Quito – Campus Cumbaya
 7756,Ahram Canadian University
 7455,Arab Academy – Science Technology Maritime Transport
 7437,Cairo University Faculty of Engineering
@@ -4333,19 +4333,19 @@ number,school
 4937,Misr International University
 4806,MSA University
 5347,Nile Academy for Science
-7209,Zewail University El Salvador
-3856,Instituto Americano de Educacion Superior Estonia
+7209,Zewail University
+3856,Instituto Americano de Educacion Superior
 7383,Estonian University of Life Sciences
-6424,University of Tartu Finland
+6424,University of Tartu
 1700,Aalto University School of Business
 7448,Savonia University of Applied Sciences
 599,Tampere University of Technology
-483,University of Helsinki France
+483,University of Helsinki
 866,American University of Paris
 73,Ecole Superieure de Commerce
 7084,Institut Francais du Petrole
 4627,Paris College of Art
-6192,Sciences Po – Paris Institute of Political Studies Germany
+6192,Sciences Po – Paris Institute of Political Studies
 4422,Bard College Berlin
 6569,Berlin University of the Arts
 6802,Cologne Institute of Technology
@@ -4365,10 +4365,10 @@ number,school
 6722,University of Erfurt
 3592,University of Karlsruhe
 5390,University of Regensburg
-7951,WHU – Otto Beisheim School of Management Ghana
+7951,WHU – Otto Beisheim School of Management
 7459,Malku Institute of Technology
-7950,Webster University Ghana Campus Greece
-925,American College of Greece Guatemala
+7950,Webster University Ghana Campus
+925,American College of Greece
 6745,Colegio Evangelico La Palabra
 3875,Universidad del Valle de Guatemala
 6758,Universidad Francisco Marroquin
@@ -4382,10 +4382,10 @@ number,school
 7261,Hong Kong Polytechnic University
 2787,Hong Kong University of Science and Technology
 4791,Lingnan University
-9671,University of Hong Kong Hungary
+9671,University of Hong Kong
 4567,CEU Business School
 7942,Corvinus University of Budapest
-607,University of Veszprem India
+607,University of Veszprem
 6760,Ahmedabad University
 7343,Ashoka University
 7759,"Bits Pilani, Vidya Vihar Campus"
@@ -4407,8 +4407,8 @@ number,school
 7959,Srishti Institute of Art Design and Technology
 7391,St. Xavier’s College
 7460,Technology Incubation Center CIU
-7035,Visvesvaraya National Institute of Technology Iraq
-7905,Ishik University Ireland
+7035,Visvesvaraya National Institute of Technology
+7905,Ishik University
 4918,Blackrock College
 506,Griffith College Dublin
 7053,Mary Immaculate College
@@ -4418,7 +4418,7 @@ number,school
 4920,University College Cork
 6675,University College Dublin International
 2494,University of Dublin Trinity College
-4959,University of Limerick Israel
+4959,University of Limerick
 967,Bar-Ilan University of Israel
 2549,Ben Gurion University of the Negev
 6633,College of Law and Business – CLB
@@ -4426,7 +4426,7 @@ number,school
 7012,International School University of Haifa
 2221,Midreshet Lindenbaum
 4267,Raphael Recanati International School
-5899,Technion Italy
+5899,Technion
 262,American University of Rome
 7206,Bocconi University
 6387,European School of Economics Florence
@@ -4439,8 +4439,8 @@ number,school
 7679,Politecnico di Torino
 7414,Universita Cattolica Del Sacro Cuore
 9034,Universita Degli Studi Di Firenze
-6993,University of Bologna Jamaica
-1967,Northern Caribbean University Japan
+6993,University of Bologna
+1967,Northern Caribbean University
 53,Aoyama Gakuin University
 7355,Chiba University
 4423,Chuo University
@@ -4490,9 +4490,9 @@ number,school
 7667,Yamanashi Gakuin University
 4814,Yamanashi Medical Center
 3742,Yokohama City University
-3785,Yokohama National University Jordan
-7451,Al-Ahliyya Amman University Kazakhstan
-7915,Nazarbayev University Kenya
+3785,Yokohama National University
+7451,Al-Ahliyya Amman University
+7915,Nazarbayev University
 2701,Augustana College Kenya
 7290,"Pioneer International University Korea, South (ROK)"
 7415,Catholic University of Korea Songeui Campus
@@ -4515,12 +4515,12 @@ number,school
 7442,"Suny Korea, State University of New York"
 7441,"Underwood International College, Yonsei University"
 7440,UNIST
-9893,Yonsei University Kosovo
+9893,Yonsei University
 6242,American University in Kosovo
-7997,Iliria College Kuwait
-4185,American University of Kuwait Kyrgyzstan
-5825,American University of Central Asia Latvia
-7254,RTU Riga Business School Lebanon
+7997,Iliria College
+4185,American University of Kuwait
+5825,American University of Central Asia
+7254,RTU Riga Business School
 6735,Al Maaref University
 3591,American Community School at Beirut Lebanon
 7801,American University of Culture and Education
@@ -4533,15 +4533,15 @@ number,school
 6128,Lebanese Ministry of Education and Higher Education
 7696,Notre Dame University
 4438,Rafik Hariri University
-2960,University of Balamand Liberia
-745,University of Liberia Lithuania
+2960,University of Balamand
+745,University of Liberia
 7210,Lithuanian University of Health Sciences
 5587,SKVC
-6841,Vilnius University Faculty of Medicine Malaysia
+6841,Vilnius University Faculty of Medicine
 5,American Degree Program
 7401,Taylor’s University Lakeside Campus
-6641,University of Nottingham Malaysia Campus Malta
-7057,American University of Malta Mexico
+6641,University of Nottingham Malaysia Campus
+7057,American University of Malta
 733,Alliant International UniversityMexico City
 7143,Centro de Ensenanza Technical
 7145,Instituto Tec Estudios Superior
@@ -4552,12 +4552,12 @@ number,school
 7148,Universidad Auto Coahuila
 938,Universidad de Las Americas Puebla
 6591,Universidad de Monterrey
-4786,Universidad Panamericana Mongolia
+4786,Universidad Panamericana
 7067,English Academy of MUST
-6536,National University of Mongolia Orkhon Branch Morocco
+6536,National University of Mongolia Orkhon Branch
 6596,Al Akhawayn University
 7060,EMAA Business School Myanmar
-7686,American University of Myanmar Netherlands
+7686,American University of Myanmar
 6700,Amsterdam University College
 7684,Eindhoven University of Technology Bachelor Programs
 7443,Erasmus University College
@@ -4572,7 +4572,7 @@ number,school
 7297,University College Utrecht
 7932,University of Amsterdam College of PPLE
 7237,University of Groningen
-7953,Webster University New Zealand
+7953,Webster University
 7299,AUT – Auckland University of Technology
 6842,Lincoln University
 7878,Massey University
@@ -4580,11 +4580,11 @@ number,school
 7225,University of Canterbury
 7224,University of Otago
 7265,University of Waikato
-7223,Victoria University of Wellington Nicaragua
+7223,Victoria University of Wellington
 6440,Thomas More Universitas
 6419,Universidad Catolica
 6327,Universidad de Ciencias UCC
-6496,Universidad Politecnica de Nicaragua – UPOLI Norway
+6496,Universidad Politecnica de Nicaragua – UPOLI
 7995,BI Norwegian Business School
 6691,Samordna Opptak Norwegian University/College Admission Service
 5804,University of Bergen
@@ -4605,28 +4605,28 @@ number,school
 4552,Shaheed Zulfikar Ali Bhutto Institute of Science
 7393,Shifa College of Medicine
 7909,"University of Lahore Palestine, State of"
-7268,Birzeit University Philippines
+7268,Birzeit University
 6786,Ateneo de Manila University
 7673,Ateneo de Zamboanga – Mindanao State University
 6623,De La Salle University
 6738,Enderun Colleges
-978,University of the Philippines Poland
+978,University of thePoland
 6518,AGH University of Science and Technology
-6743,Cracow University of Economics Portugal
-7423,Universidade Catolica Portuguesa Qatar
+6743,Cracow University of Economics
+7423,Universidade Catolica Portuguesa
 4246,Carnegie Mellon University Qatar
 4563,Georgetown University in Qatar
 7675,Hamad Bin Khalifa University Qatar Foundation
 5714,Northwestern University in Qatar
 5264,Qatar University
 4290,Texas A&M University Qatar
-3999,Weill Cornell Medicine Qatar Rwanda
-7807,African Leadership University Rwanda Saudi Arabia
+3999,Weill Cornell Medicine Qatar
+7807,African Leadership University Rwanda
 5752,Alfaisal University
 9406,Aramco Saudi
 7672,King Abdullah University of Science and Technology
 5454,University Preparatory Program
-5717,International School of Seychelles Singapore
+5717,International School of Seychelles
 186,Center for American Education
 7421,Curtin Singapore
 5473,DigiPen Institute of Technology Singapore
@@ -4637,10 +4637,10 @@ number,school
 5648,Singapore Polytechnic
 6532,SUTD – Singapore University of Technology and Design
 7382,UniSIM College
-7003,Yale-NUS College South Africa
+7003,Yale-NUS College
 8e3,Monash South Africa
 7798,Stellenbosch University
-7431,University of Cape Town Spain
+7431,University of Cape Town
 7800,American College in Spain
 7073,Esade Business School
 6293,IE University Campus de Santa Cruz la Real
@@ -4649,11 +4649,11 @@ number,school
 2586,Saint Louis University Madrid Campus
 4195,Suffolk University Madrid
 9815,The College for International Studies
-6475,Universidad Europea de Madrid Sri Lanka
+6475,Universidad Europea de Madrid
 2480,American College of Higher Education
-276,Institute of Technological Studies Sweden
+276,Institute of Technological Studies
 5436,Livets Ord University
-9022,Lunds Universitet Switzerland
+9022,Lunds Universitet
 4102,Ecole Hoteliere de Lausanne
 9025,ETH Zurich
 7338,Geneva University
@@ -4661,8 +4661,8 @@ number,school
 3722,SBS Swiss Business School
 7406,University of Basel
 7960,University of Zurich
-6139,Webster University Taiwan
-829,Fu Jen Catholic University Thailand
+6139,Webster University
+829,Fu Jen Catholic University
 4559,Chulalongkorn BBA
 7433,Chulalongkorn University Faculty of Psychology
 6806,Chulalongkorn University International School of Engineering
@@ -4672,7 +4672,7 @@ number,school
 7420,"Thammasat University Faculty of Law, Business"
 288,Thammasat University
 8003,Thammasat University Economics Department Trinidad and Tobago
-5803,Caribbean Life Resource Center Turkey
+5803,Caribbean Life Resource Center
 7466,Abdullah Gul University
 7964,Ankara University
 7957,Antalya International University
@@ -4696,7 +4696,7 @@ number,school
 7413,Ted University
 6739,Yeditepe University
 7946,Yildiz Technical University Davutpasa Campus Turks and Caicos Islands
-7809,Charisma University United Arab Emirates
+7809,Charisma University
 2688,American University in Dubai
 7983,American University of Ras Al Khaimah
 5543,American University of Sharjah
@@ -4706,7 +4706,7 @@ number,school
 7860,Khalifa University of Science Technology Research
 9036,Petroleum Institute
 4749,United Arab Emirates University
-5695,University of Dubai United Kingdom
+5695,University of Dubai
 7948,Abertay University
 7e3,Anglia Ruskin University
 7761,Arts University Bournemouth
@@ -4826,10 +4826,10 @@ number,school
 7363,H. Lavity Stoutt Community College
 548,Air Force ROTC Scholarships
 1032,Alabama School of Mathematics and Science
-320,Sonat Foundation Scholarship Alaska
-7215,Alaska Performance Scholarship Private Schools Arizona
-2175,The Flinn Foundation American Samoa
-9401,Department of Education – Pago Pago California
+320,Sonat Foundation Scholarship
+7215,Alaska Performance Scholarship Private Schools
+2175,The Flinn Foundation
+9401,Department of Education – Pago Pago
 24,California Student Aid Commission
 3862,Caroline D. Bradley Scholarship
 9826,Chevron Scholarships
@@ -4848,11 +4848,11 @@ number,school
 6752,Tailhook Education Foundation Inc.
 7222,Thiel Foundation
 4824,University of California Berkeley ACDMC Talent Development Program
-2575,Young Black Scholars Program Colorado
+2575,Young Black Scholars Program
 19,Boettcher Foundation Scholarship
 9903,Daniels Scholarship Program
-3822,United States Borax Scholarship Program Connecticut
-313,Knights of Columbus Connecticut
+3822,United States Borax Scholarship Program
+313,Knights of Columbus
 100,Pitney Bowes Scholarship
 4781,"Raymond F. Gates, Jr. Memorial Scholarship Program District of Columbia"
 3734,Amalgamated Transit Union Scholarship
@@ -4871,13 +4871,13 @@ number,school
 4240,Korean Honor Scholarship Committee
 5782,National Italian-American Foundation Scholarship
 4187,Sheet Metal Workers International Scholarship Association
-7757,Sons of Italy Foundation Florida
+7757,Sons of Italy Foundation
 624,Leroy E. Dettman Foundation
 493,Navy Enlisted Commissioning Program
 7447,Orange County Public Schools Tip Program
 6151,PGA of America
 7284,Pinellas County Schools Tip
-656,United States Navy ROTC Georgia
+656,United States Navy ROTC
 5931,Agape Global Church Scholarship
 7888,American Cybersystems High Achievers Scholarship
 680,Crawford Company Scholarship
@@ -4886,8 +4886,8 @@ number,school
 472,Georgia Student Finance Authority
 1530,Hank Johnson
 6748,I Have A Dream Atlanta Inc.
-2565,United States Marine Corps Officer Selection Idaho
-5965,Nuclear Energy University Programs Illinois
+2565,United States Marine Corps Officer Selection
+5965,Nuclear Energy University Programs
 9043,Boys & Girls Clubs of Chicago
 4977,Center for Talent Development
 6782,Daniel Murphy Scholarship Fund
@@ -4909,19 +4909,19 @@ number,school
 9053,Simpson Scholarship
 4401,Society of Actuaries
 185,Tenneco Inc. Scholarship
-5635,Thrall Enterprises Scholarship Indiana
+5635,Thrall Enterprises Scholarship
 130,Moore Foundation
-3122,Rea Magnet Wire Company Scholarship Iowa
-6018,Bandag Incorporated Scholarship Program Kansas
+3122,Rea Magnet Wire Company Scholarship
+6018,Bandag Incorporated Scholarship Program
 1608,Fellellgas Scholarship Program
-3681,Golf Course Superintendents Association Scholarship Kentucky
+3681,Golf Course Superintendents Association Scholarship
 7874,Kentucky Grocers Education Foundation
 1180,Lincoln Foundation Whitney Young Scholars Program
-454,U.S. Army Cadet CMD ROTC Scholarship Louisiana
+454,U.S. Army Cadet CMD ROTC Scholarship
 6351,Louisiana School for Math Science and Arts
 5969,Teach for America Greater New Orleans
-9019,Tops-Taylor Opportunity for Students Maine
-3513,Maine School of Science and Math Maryland
+9019,Tops-Taylor Opportunity for Students
+3513,Maine School of Science and Math
 500,Air Force Sergeants Association Scholarship Program
 634,American Physical Society
 587,Applied Physics Lab School
@@ -4932,7 +4932,7 @@ number,school
 7935,Grant H. Flint International Scholarship
 5302,Hariri Foundation
 89,National Association Advanced Colored People Scholarship
-6840,WSSC Berger Memorial Scholarship Massachusetts
+6840,WSSC Berger Memorial Scholarship
 1748,Beta Kappa Phi Alpha Gamma Rho Scholarship
 6990,Boston HERC
 7080,Boston Scholar Athletes
@@ -4942,33 +4942,33 @@ number,school
 7996,MGH Youth Scholars
 6766,Nova Biomedical Scholarship Program
 569,Two Ten Scholarship
-17,Walter S Barr Scholarship Michigan
+17,Walter S Barr Scholarship
 2593,Focus Hope
 1173,Michigan Merit Award
 2717,Office of Gifted and Talented Education
 924,Tawas Area Educational Foundation Scholarship
-5842,The Yes Foundation Minnesota
+5842,The Yes Foundation
 9990,MBNA HBCU Scholarship Program
-175,Southern California Edison Scholarship Missouri
+175,Southern California Edison Scholarship
 6985,Ann Wagner
 6778,Billy Long
 321,Hall Family Foundation
-6299,INROADS Inc. Missouri Nebraska
-37,Union Pacific Railroad Scholarship Nevada
-2707,Nevada Scholars Program New Hampshire
-1699,Standex Scholarship Program New Jersey
+6299,INROADS Inc. Missouri
+37,Union Pacific Railroad Scholarship
+2707,Nevada Scholars Program
+1699,Standex Scholarship Program
 9949,Broad Prize for Urban Education
 32,Chubb Foundation
 9925,Community Foundation of New Jersey
 3240,Douglas College Scholarship Program
-2578,Eastern Star Charity Foundation of New Jersey
+2578,Eastern Star Charity Foundation of
 126,Gibbs Scholarship Program
 355,Gloucester Township Day Scholarship
 9937,Gordon A. Rich Memorial Foundation Scholarship Program
 517,National Association Record Merchants Scholarship
 6594,Princeton Area Community Foundation NRG Scholarship
-5771,Schindler Corporation Scholarship Program New Mexico
-3812,Jack Maddox Foundation Scholarship New York
+5771,Schindler Corporation Scholarship Program
+3812,Jack Maddox Foundation Scholarship
 415,Amalgamated Lithographers of America Scholarship
 6764,Armory Foundation
 2105,Cirio Foundation
@@ -4992,20 +4992,20 @@ number,school
 148,Telluride Association Scholarship
 4565,Thomas Shortman Scholarship
 9e3,Ukrainian Scholarship
-7662,YMCA of Greater New York Y Scholars Program North Carolina
+7662,YMCA of Greater New York Y Scholars Program
 725,McNair Foundation
 5757,North Carolina State Education Assistance Authority
 7230,The Sunflower Initiative
-7262,Virginia Shadd Scholarship Program Ohio
+7262,Virginia Shadd Scholarship Program
 10,American Electric Power Award Scholarship
 8794,Cleveland Scholarship Program
 331,Gosser Scholarship
 447,Gould Scholarship Program
 6446,Les Best Scholarship Fund
-135,Timken Educational Fund Scholarship Oklahoma
+135,Timken Educational Fund Scholarship
 7671,Pei Foundation
 7922,Phillips University Legacy Foundation
-301,Sac and Fox Nation Pennsylvania
+301,Sac and Fox Nation
 4,Alcoa Foundation Scholarship Program
 151,Berwind Foundation
 592,BMW/SAE Engineering Scholarship
@@ -5031,14 +5031,14 @@ number,school
 157,Westinghouse Family Scholarship
 5942,White-Williams Scholars
 403,Women’s Aid Scholarship
-7246,Kinesis Foundation South Carolina
+7246,Kinesis Foundation
 196,Center for Scholarship Administration Inc.
 5e3,Fred and Susan Breidenbach Scholarship Fund
 2045,Gulfstream Goldie Glen Scholarship Fund
 7349,Nuclear Forensics Undergraduate Scholarship Program
 1214,Palmetto Electric Wire Scholarship
 3680,South Carolina Teaching Fellows Program
-3703,SRR Savannah River Remediation Scholarship Program Tennessee
+3703,SRR Savannah River Remediation Scholarship Program
 9883,AIG Foundation Scholarship Program
 9919,Avon Foundation Scholarship Program
 9018,Brookhaven Science Associates Scholarship Program
@@ -5117,8 +5117,8 @@ number,school
 164,Texas Academy for Math and Science
 2501,Texas Academy of Leadership in the Humanities
 465,Vista Chemical Company Scholarship Program
-7358,Young Achievers Summer Scholarship Program Vermont
-6728,Calvin Coolidge Presidential Foundation Scholarship Virginia
+7358,Young Achievers Summer Scholarship Program
+6728,Calvin Coolidge Presidential Foundation Scholarship
 9992,AUI Trustee Scholarship
 5945,Barbara Comstock
 7016,Community Foundation for Northern Virginia
@@ -5129,7 +5129,7 @@ number,school
 5241,National Society Professional Engineer
 3563,United Steelworkers Union
 1210,3
-5599,World’s Best Prep Course Scholarship Washington
+5599,World’s Best Prep Course Scholarship
 6564,Act Six Leadership Scholarship Initiative
 6697,Edmund F Maxwell Foundation
 4235,Jaime Herrera Beutler
@@ -5138,29 +5138,29 @@ number,school
 9899,UW Academy for Young Scholars Program
 7928,Washington Apple Education Foundation
 6792,Washington College Bound Scholarship Program
-7683,WRPS Family Scholarship Program West Virginia
+7683,WRPS Family Scholarship Program
 709,Greater Kanawha Valley Foundation Scholarship
-3456,West Virginia Higher Education Grant Program Wisconsin
+3456,West Virginia Higher Education Grant Program
 4909,Wisconsin Department of Public Instruction
 6538,Wisconsin Grocers Association
-451,Wisconsin Public Service Foundation Scholarship Programs Outside the U.S. Australia
-7436,South Australian Tertiary Admissions Centre Bahrain
-3692,Crown Prince Court International Scholarship Program Bermuda
+451,Wisconsin Public Service Foundation Scholarship Programs Outside the U.S.
+7436,South Australian Tertiary Admissions Centre
+3692,Crown Prince Court International Scholarship Program
 4718,Center for Talented Youth Bermuda
-3983,Institute for Talented Students Hamilton Bermuda
-5992,Passports to College of Bermuda Brazil
-3859,Instituto Brasil-Estados Unidos IBEU/BNC Canada
-161,Hiram Walker Scholarship Cyprus
-9454,Cyprus Fulbright Commission Czechia
-7934,Centrum Pro Talentovanou Mladez France
-36,Schlumberger Scholarship Ghana
-7076,Mise Foundation Ireland
-46,Irish Centre for Talented Youth Niger
-6450,Chevron Nigeria Limited Netherlands
-6742,Fulbright Center New Zealand
-7379,Education New Zealand Qatar
-3982,Academic Bridge Program United Kingdom
+3983,Institute for Talented Students Hamilton
+5992,Passports to College of Bermuda
+3859,Instituto Brasil-Estados Unidos IBEU/BNC
+161,Hiram Walker Scholarship
+9454,Cyprus Fulbright Commission
+7934,Centrum Pro Talentovanou Mladez
+36,Schlumberger Scholarship
+7076,Mise Foundation
+46,Irish Centre for Talented Youth
+6450,Chevron Nigeria Limited
+6742,Fulbright Center
+7379,Education New Zealand
+3982,Academic Bridge Program
 2608,Howard Greene Group England
 7445,Our Moon Scholarship Program
-7252,US-UK Fulbright Zimbabwe
+7252,US-UK Fulbright
 5516,U.S. Embassy Public Affairs Section Education Center
