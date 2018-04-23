@@ -19,12 +19,12 @@ sat_scores <- "sat_2017.pdf"
 
 
 
-columns <- list(col_one = c(1,1, 790, 132), col_2 = c(1,135, 790, 250), col_3 = c(1,255, 770, 360), 
+columns <- list(col_one = c(1,1, 790, 137), col_2 = c(1,135, 790, 250), col_3 = c(1,255, 770, 360), 
                 col_4 =c(1,355, 770, 475),
                 last_one = c(1,475, 770, 600))
 
 big_list <- c()
-for(i in 2:21){
+for(i in 2:22){
   tab <- extract_tables(sat_scores, page = c(i,i,i,i,i), area = columns, guess = FALSE, method = "character")
   
   collector <- c()
