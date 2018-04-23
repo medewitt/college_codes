@@ -54,6 +54,7 @@ for(i in 2:22){
     to_inspect <-gsub(to_inspect, pattern = "\\n|\\t", replacement = " ")
     to_inspect_b <-gsub(to_inspect, pattern = "^[A-z]+", replacement = " ")
     to_inspect_c <-gsub(to_inspect_b, pattern = "^\\s+", replacement = "")
+    to_inspect_c <-gsub(to_inspect_c, pattern = '\"', replacement = "")
     message(paste0("Sheet", j ,"of", i, sep = " "))
     numbers <- str_extract_all(pattern = "[0-9]{4}", string = to_inspect_b, simplify = TRUE)[1,]
     #school <-t(str_extract_all(pattern = "[^0-9]+", string = to_inspect_c, simplify = TRUE))
