@@ -40,13 +40,11 @@ cleaner <- paste0("\\n(", names_to_remove, ")\\n")
 
 big_list <- c()
 for(i in 2:22){
-  i <- 2
   tab <- extract_tables(sat_scores, page = c(i,i,i,i,i), area = columns, guess = FALSE, method = "character")
   
   collector <- c()
   for(j in 1:5){
     #to_inspect <-gsub(tab[[j]], pattern = "\\n(Alaska)\\n", replacement = "")
-    j <-2
     
     to_inspect <- tab[[j]]
     for(k in seq_along(cleaner)){
